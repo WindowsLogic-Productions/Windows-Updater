@@ -1,0 +1,18 @@
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows Updater.vbprojAssemblyReference.cache
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.About.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.Main.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.Resources.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.Win2000.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.Win98.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.WinNT4.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.WinVista.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows_Updater.WinXP.resources
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows Updater.vbproj.GenerateResource.cache
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows Updater.vbproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows Updater.exe
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows Updater.xml
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\obj\x86\Debug\Windows Updater.pdb
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\bin\Debug\Windows Updater.exe.config
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\bin\Debug\Windows Updater.exe
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\bin\Debug\Windows Updater.pdb
+C:\Users\Tim\Desktop\32 GB USB Backup\Windows Updater\Windows Updater\bin\Debug\Windows Updater.xml
